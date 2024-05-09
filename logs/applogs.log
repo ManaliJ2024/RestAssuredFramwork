@@ -1,0 +1,16 @@
+2024-05-09T11:05:08,913 [main] INFO  (UserTests.java:41) - **********Creating User*************
+2024-05-09T11:05:11,831 [main] INFO  (UserTests.java:49) - **********Reading User*************
+2024-05-09T11:05:12,983 [main] INFO  (UserTests.java:60) - **********Upadting User*************
+2024-05-09T11:05:15,285 [main] INFO  (UserTests.java:76) - **********Deleting User*************
+2024-05-09T11:07:35,850 [main] INFO  (UserTests.java:41) - **********Creating User*************
+2024-05-09T11:07:37,439 [main] INFO  (UserTests.java:49) - **********Reading User*************
+2024-05-09T11:07:38,613 [main] INFO  (UserTests.java:60) - **********Upadting User*************
+2024-05-09T11:07:40,915 [main] INFO  (UserTests.java:76) - **********Deleting User*************
+2024-05-09T11:08:32,790 [main] INFO  (UserTests.java:41) - **********Creating User*************
+2024-05-09T11:08:34,356 [main] INFO  (UserTests.java:49) - **********Reading User*************
+2024-05-09T11:08:35,544 [main] INFO  (UserTests.java:60) - **********Upadting User*************
+2024-05-09T11:08:37,839 [main] INFO  (UserTests.java:76) - **********Deleting User*************
+2024-05-09T11:10:22,560 [main] INFO  (UserTests2.java:41) - **********Creating User*************
+2024-05-09T11:10:27,376 [main] INFO  (UserTests2.java:49) - **********Reading User*************
+2024-05-09T11:10:28,578 [main] INFO  (UserTests2.java:60) - **********Upadting User*************
+2024-05-09T11:10:30,901 [main] INFO  (UserTests2.java:76) - **********Deleting User*************

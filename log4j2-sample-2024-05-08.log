@@ -1,0 +1,8 @@
+2024-05-08T12:29:10,648 [main] INFO  (UserTests.java:41) - **********Creating User*************
+2024-05-08T12:29:13,401 [main] INFO  (UserTests.java:49) - **********Reading User*************
+2024-05-08T12:29:14,776 [main] INFO  (UserTests.java:60) - **********Upadting User*************
+2024-05-08T12:29:17,222 [main] INFO  (UserTests.java:76) - **********Deleting User*************
+2024-05-08T13:21:02,324 [main] INFO  (UserTests2.java:41) - **********Creating User*************
+2024-05-08T13:21:05,638 [main] INFO  (UserTests2.java:49) - **********Reading User*************
+2024-05-08T13:21:06,882 [main] INFO  (UserTests2.java:60) - **********Upadting User*************
+2024-05-08T13:21:09,272 [main] INFO  (UserTests2.java:76) - **********Deleting User*************
